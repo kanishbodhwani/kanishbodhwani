@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kanish Bodhwani</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="Coding" src=“[arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)” />
+<img align="right" alt="Coding" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishbodhwani&label=Profile%20views&color=0e75b6&style=flat" alt="kanishbodhwani" /> </p>
 
@@ -46,7 +46,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishbodhwani&show_icons=true&locale=en&layout=compact" alt="kanishbodhwani" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishbodhwani&show_icons=true&locale=en" alt="kanishbodhwani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishbodhwani&" alt="kanishbodhwani" /></p>
