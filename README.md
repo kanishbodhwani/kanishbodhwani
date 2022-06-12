@@ -1,4 +1,4 @@
-[![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif)](https://kanishbodhwani.io)
+[![MasterHead](https://moosend.com/wp-content/uploads/2021/09/How-to-insert-a-gif-into-an-email.gif)](https://kanishbodhwani.io)
 
 <h1 align="center">Hi 👋, I'm Kanish Bodhwani</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
