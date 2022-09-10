@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Web3, Devops, Kubernates and Docker**
 
-- 👨‍💻 All of my projects are available at [https://kanishbodhwani.netlify.com/](https://kanishbodhwani.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://kanishportfolio.netlify.app/](https://kanishportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://kanishbodhwani.medium.com/](https://kanishbodhwani.medium.com/)
+- 📝 I regularly write articles on [https://hashnode.com/@bodhwanikanish](https://hashnode.com/@bodhwanikanish)
 
 - 💬 Ask me about **React, Typescript, Javascript, Java, Firebase, MongoDB, Nextjs**
 
