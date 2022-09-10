@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **bodhwanikanish@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1X-Fxlcnr_hDRB4D9VCZvukuhvlO22OAx/view?usp=sharing](https://drive.google.com/file/d/1_kmOuGosW4j0WfS9DaitpzhXORk9Sfr-/view?usp=sharing)](https://drive.google.com/file/d/1_kmOuGosW4j0WfS9DaitpzhXORk9Sfr-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_kmOuGosW4j0WfS9DaitpzhXORk9Sfr-/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
