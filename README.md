@@ -1,7 +1,7 @@
 [![MasterHead](https://moosend.com/wp-content/uploads/2021/09/How-to-insert-a-gif-into-an-email.gif)](https://kanishbodhwani.io)
 
 <h1 align="center">Hi 👋, I'm Kanish Bodhwani</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer </h3>
 <img align="right" alt="Coding" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishbodhwani&label=Profile%20views&color=0e75b6&style=flat" alt="kanishbodhwani" /> </p>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/bodhwanikanish" target="blank"><img src="https://img.shields.io/twitter/follow/bodhwanikanish?logo=twitter&style=for-the-badge" alt="bodhwanikanish" /></a> </p>
 
-- 🌱 I’m currently learning **Web3, Devops, Kubernates and Docker**
+- 🌱 I’m currently learning **Devops, Kubernates and Docker**
 
 - 👨‍💻 All of my projects are available at [https://kanishportfolio.netlify.app/](https://kanishportfolio.netlify.app/)
 
