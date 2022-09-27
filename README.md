@@ -30,6 +30,7 @@
 <p align="left">
 <a href="https://twitter.com/bodhwanikanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bodhwanikanish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanish-bodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanish-bodhwani" height="30" width="40" /></a>
+<a href="https://kanishbodhwani.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" alt="kanish.bodhwani" height="30" width="40" /></a>
 <a href="https://fb.com/kanish.bodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanish.bodhwani" height="30" width="40" /></a>
 <a href="https://instagram.com/kanish_bodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanish_bodhwani" height="30" width="40" /></a>
 <a href="https://medium.com/@kanishbodhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kanishbodhwani" height="30" width="40" /></a>
