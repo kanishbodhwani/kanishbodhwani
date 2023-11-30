@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Devops, Kubernates and Docker**
 
-- 👨‍💻 All of my projects are available at [https://kanishportfolio.netlify.app/](https://kanishportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kanishbodhwani.vercel.app/](https://kanishbodhwani.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@bodhwanikanish](https://hashnode.com/@bodhwanikanish)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **bodhwanikanish@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_kmOuGosW4j0WfS9DaitpzhXORk9Sfr-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jUwDko3tCdwPW6aSvmFWanJHbl2q4SwX/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
